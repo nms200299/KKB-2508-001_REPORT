@@ -24,6 +24,8 @@
 
 ### 폴더 복호화
 
-
+<img width="940" height="246" alt="image" src="https://github.com/user-attachments/assets/0d8c41cf-f91d-443a-8c7f-e0988d385d4f" />
 
 ### 파일 복호화
+
+<img width="940" height="85" alt="image" src="https://github.com/user-attachments/assets/8b18d914-2ea0-4b90-9128-0634b83791be" />
