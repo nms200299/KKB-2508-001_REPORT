@@ -12,5 +12,5 @@ rule KKB-2508-001_DOC
 
     condition:
         uint16(0) == 0xCFD0 and
-        $s1 and $s2 and $s3
+        $sig1 and $sig2 and $sig3
 }
